@@ -5,7 +5,7 @@
   - [简明概述](/Article/codeSpecification/codeSpecification_first.md)
   - [注释](/Article/codeSpecification/codeSpecification_second.md)
   - [命名规范](/Article/codeSpecification/codeSpecification_third.md)
-* [第一个Python程序](/Article/PythonBasis/python1/Preface.md)
+* [第一个Python程序](/Article/PythonBasis/python1/Preface.md) 
   - [Python 简介](/Article/PythonBasis/python1/Introduction.md)
   - [Python 的安装](/Article/PythonBasis/python1/Installation.md)
   - [第一个 Python 程序](/Article/PythonBasis/python1/The_first_procedure.md)
